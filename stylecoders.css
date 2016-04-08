@@ -1,0 +1,40 @@
+h3 {
+	margin-left:60px;
+}
+.linea {
+	width:70px;
+	border:solid black 2px;
+	margin-bottom: 30px;
+	margin-left:60px;
+}
+
+.foto {
+	width:200px;
+	height: 200px;
+	display: inline-block;
+	position:relative;
+	left:80px;
+	margin:20px;	
+}
+
+#nombre {
+	position:absolute;
+	top:150px;
+	left:100px;
+	color: #FFF;
+}
+
+img{
+	width: 200px;
+	height:200px;
+	opacity:0.5;
+}
+
+.foto img:hover{
+	opacity:1;
+	background-color: rgba(2104, 83, 35, 0.3);
+}
+body {
+	margin-left: 100px;
+	margin-right:100px;
+}
